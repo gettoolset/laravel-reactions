@@ -1,7 +1,7 @@
 {
-    "name": "devdojo/laravel-reactions",
+    "name": "gettoolset/laravel-reactions",
     "type": "library",
-    "description": "",
+    "description": "Laravel reactions system for Laravel 5, 6, 7 and 8",
     "keywords": [
         "laravel",
         "package",
@@ -11,7 +11,7 @@
 	"eloquent",
 	"trait"
     ],
-    "homepage": "https://github.com/thedevdojo/laravel-reactions",
+    "homepage": "https://github.com/gettoolset/laravel-reactions",
     "license": "MIT",
     "authors": [
         {
@@ -22,9 +22,9 @@
         }
     ],
     "require": {
-        "php" : "^7.2",
-        "illuminate/database": "~5.5|~5.6|~5.7|~5.8|^6.0|^7.0",
-        "illuminate/support": "~5.5|~5.6|~5.7|~5.8|^6.0|^7.0"
+        "php" : "^7.3",
+        "illuminate/database": "~5.5|~5.6|~5.7|~5.8|^6.0|^7.0|^8.0",
+        "illuminate/support": "~5.5|~5.6|~5.7|~5.8|^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.10",
